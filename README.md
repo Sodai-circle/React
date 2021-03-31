@@ -2,16 +2,13 @@
 
 - node.js + reactの環境です。
 
-- dockerを使ったreactの環境構築なのでreadockと名付けています。
-
-  
 
 ## ReaDock
 
 1. リポジトリをクローン
 
    ```
-   git clone https://gitlab.com/welcome-to-sodai/react.git react_app/readock
+   git clone https://github.com/Sodai-circle/React.git react_app/readock
    ```
 
 2. readockの階層で
@@ -37,14 +34,5 @@
    ```bash
    docker-compose down
    ```
-
-## まとめ
-
-- Reactの環境構築ができた
-
-## Next Step
-
-- Reactを勉強していくのみ!
-- Sodai.でチュートリアル作ってくれる方募集中です...
 
    
